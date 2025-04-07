@@ -3,26 +3,26 @@ his utility prints out the list of user/ID of a system :
 Output exemple :
 
 # ./enuser
-Parsing uid...
-root -> 0
-daemon -> 1
-bin -> 2
-sys -> 3
-adm -> 4
-lp -> 71
-uucp -> 5
-nuucp -> 9
-smmsp -> 25
-listen -> 37
-nobody -> 60001
-noaccess -> 60002
-nobody4 -> 65534
-guestuser -> 1001
-postgres -> 1002
+Parsing uid... <br>
+root -> 0 <br>
+daemon -> 1 <br>
+bin -> 2 <br>
+sys -> 3 <br>
+adm -> 4 <br>
+lp -> 71 <br>
+uucp -> 5 <br>
+nuucp -> 9 <br>
+smmsp -> 25 <br>
+listen -> 37 <br>
+nobody -> 60001 <br>
+noaccess -> 60002 <br>
+nobody4 -> 65534 <br>
+guestuser -> 1001 <br>
+postgres -> 1002 <br>
 
-Last UID in list: 1002.
-Is next ID 1003 available ?
-UID 1003 available.
+Last UID in list: 1002. <br>
+Is next ID 1003 available ? <br>
+UID 1003 available. <br>
 
 Note :
 
