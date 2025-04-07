@@ -5,7 +5,7 @@ Output exemple :
 # ./fcpy DSS.zip DSS.new.zip
 Copying file DSS.zip using buffer of 8192 bytes...
 
-- * * * * * * * * * * -
+-- * * * * * * * * * * - <br>
 34201600 bytes of DSS.zip copied in 4.39 sec
 Xfer speed : 7793310 bytes/sec
 
