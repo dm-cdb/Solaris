@@ -1,1 +1,1 @@
-Some samll C utilities for Sun Sparc Solaris system
+Some small C utilities for Sun Sparc Solaris system
